@@ -14,3 +14,4 @@ The purpose of the ISMS is to not only be compliant with the standard, but to he
 
 ## Checklists
 
+<a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS/blob/main/Assets%2C%20Vulnerabilities%2C%20Threats.pdf">Assets, Vulnerabilities, Threats</a>

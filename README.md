@@ -6,7 +6,7 @@ Pinnacle Assurance Group is an fast growing health insurance provider dedicated 
 
 Due to the nature of the company and it's fast growing complex, the IT department is under a lot of pressure from senior management to ensure that their systems and processes are compliant with the standard. Given the sensitive nature of the data being in the insurance industry, and the evergrowing risk of cyber threats, they have decided to undergo ISO 27001 and create, develop and implement an ISMS to prove to their clients and stakeholders that they take security seriously. 
 
-The purpose of the ISMS is to not only be compliant with the standard, but to help safeguard both its employees and customer's digital assets from security breaches, develop an incident response plan to react efficiently and effectively if a cyber attack were to occur, and lastly, develop backup and diaster recovery systems in place for all critical IT systems. 
+The purpose of the ISMS is to not only be compliant with the standard, but to help safeguard both its employees and customer's digital assets from security breaches, develop an incident response plan to react efficiently and effectively if a cyber attack were to occur, and lastly, develop a backup and diaster recovery plan for all critical IT systems. 
 
 ## Report
 

@@ -10,5 +10,7 @@ The purpose of the ISMS is to not only be compliant with the standard, but to he
 
 ## Report
 
+<a href="https://github.com/snkrmitch/PinnacleAssuranceGroupISMS/blob/main/ISMS%20-%20Scope%2C%20Policy%2C%20Objectives%2C%20Roles.pdf">Scope, Information Security Policy, Security Objectives, Roles and Responsibilities</a>
+
 ## Checklists
 
